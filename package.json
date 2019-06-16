@@ -1,0 +1,13 @@
+{
+  "name": "ethereum-rng",
+  "version": "1.0.0",
+  "description": "Random number generator contracts for Ethereum",
+  "main": "index.js",
+  "repository": "https://github.com/kleros/ethereum-rng.git",
+  "author": "Kleros",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "truffle": "^5.0.22"
+  }
+}
