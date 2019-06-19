@@ -33,6 +33,7 @@
     "@kleros/kathari": "^0.23.0",
     "eth-gas-reporter": "^0.2.0",
     "ganache-cli": "^6.4.4",
+    "husky": "^2.4.1",
     "truffle": "^5.0.22"
   }
 }
