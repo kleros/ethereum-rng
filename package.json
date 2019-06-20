@@ -1,5 +1,5 @@
 {
-  "name": "ethereum-rng",
+  "name": "@kleros/ethereum-rng",
   "version": "1.0.0",
   "description": "Random number generator contracts for Ethereum",
   "main": "index.js",
